@@ -18,7 +18,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 ## 🚀 Skills
 <p>
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
+ <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/> </a>  
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
@@ -34,10 +34,10 @@ I prefer React & React Native for web/mobile front-end development.
 <!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
 <!--   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="48"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
 </p>
 
 
