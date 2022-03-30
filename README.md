@@ -11,7 +11,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 - Python, HTML5, CSS3, React, React Native, Git, GitHub
 
-- 💬 Ask  me about anything that you want to learn
+- 💬 Dont hesitate to ask me about anything that you want to learn.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yusufgozukara/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
