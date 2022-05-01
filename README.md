@@ -41,11 +41,11 @@ I prefer React & React Native for web/mobile front-end development.
 </p>
 
 
-<!--## 📈 Statistics
+## 📈 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yusufgozukara&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufgozukara&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgozukara&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgozukara&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <!--
 **yusufgozukara/yusufgozukara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
